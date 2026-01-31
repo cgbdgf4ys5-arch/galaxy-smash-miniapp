@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+
+#startBtn {
+  font-size: 24px;
+  padding: 20px;
+}
+
+#playArea {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bug {
+  font-size: 60px;
+  cursor: pointer;
+}
